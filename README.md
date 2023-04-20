@@ -28,10 +28,10 @@ Dans ce réertoir, vous trouverez :
   
 * V2 du 03/2023 [...SD] : 
   - Cette version utilise les cartes :
-    -> DYBoard_Bandmaster (V2)
-    -> DYBoard_Collector (V1)
-    -> DYBoard_Transducer_ADC_ADS1113 (V1)
-    -> DYBoard_Feeder (V2)
+    - DYBoard_Bandmaster (V2)
+    - DYBoard_Collector (V1)
+    - DYBoard_Transducer_ADC_ADS1113 (V1)
+    - DYBoard_Feeder (V2)
  
 [ /!\ ] Ce programme fonction, mais il s'agit d'une ébauche. 
 
