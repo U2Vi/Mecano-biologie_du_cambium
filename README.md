@@ -23,12 +23,12 @@ Dans ce réertoir, vous trouverez :
 
 ## Versionement :
 
-* V1 du 03/2022 [...SD] : 
+* V1 du 03/2022 : 
   - Cette version utilise une ébauche de carte précurseur à la série "DYBoard". 
 
 [ /!\ ] Ce programme fonctionne, mais il s'agit d'une ébauche. 
   
-* V2 du 03/2023 [...SD] : 
+* V2 du 03/2023 : 
   - Cette version utilise les cartes :
     - DYBoard_Bandmaster (V2)
     - DYBoard_Collector (V1)
