@@ -23,8 +23,10 @@ Dans ce réertoir, vous trouverez :
 
 ## Versionement :
 
-* V1 du ../2022 [...SD] : 
-  - ...
+* V1 du 03/2022 [...SD] : 
+  - Cette version utilise une ébauche de carte précurseur à la série "DYBoard". 
+
+[ /!\ ] Ce programme fonctionne, mais il s'agit d'une ébauche. 
   
 * V2 du 03/2023 [...SD] : 
   - Cette version utilise les cartes :
@@ -33,7 +35,7 @@ Dans ce réertoir, vous trouverez :
     - DYBoard_Transducer_ADC_ADS1113 (V1)
     - DYBoard_Feeder (V2)
  
-[ /!\ ] Ce programme fonction, mais il s'agit d'une ébauche. 
+[ /!\ ] Ce programme fonctionne, mais il s'agit d'une ébauche. 
 
 ## A faire :
 
